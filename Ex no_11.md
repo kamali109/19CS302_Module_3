@@ -1,5 +1,5 @@
 # EX 11 C Program to convert a given decimal value to binary using function without arguments with return type.
-## DATE:
+
 ## AIM:
 To write a C Program to convert a given decimal value to binary using function without arguments with return type.
 
@@ -12,16 +12,35 @@ To write a C Program to convert a given decimal value to binary using function w
 
 ## Program:
 ```
-/*
 Program to C Program to convert a given decimal value to binary using function without arguments with return type.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by:KAMALI.S 
+RegisterNumber: 212222060109 
+  #include<stdio.h> 
+  Int dectobin(int d){ 
+int bin =0,base=1,rem; 
+while(d>0) 
+{ 
+rem=d%2; 
+bin=bin+rem*base; 
+d=d/2; 
+base=base*10; 
+} 
+printf(" = %d in binary",bin); 
+return 0; 
+} 
+int main() 
+{ 
+int dec; 
+scanf("%d",&dec); 
+printf("%d in decimal",dec); 
+dectobin(dec); 
+return 0; 
+} 
 ```
-
 ## Output:
+```
+<img width="821" height="236" alt="image" src="https://github.com/user-attachments/assets/a164be8c-7c13-4693-a6a1-aaf82905e89c" />
 
-
-
+```
 ## Result:
 Thus the program was executed and the output was verified successfully.
