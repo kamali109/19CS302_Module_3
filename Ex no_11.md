@@ -39,7 +39,7 @@ return 0;
 ```
 ## Output:
 ```
-<img width="821" height="236" alt="image" src="https://github.com/user-attachments/assets/9e3d5dc9-0eb1-4e95-96b7-975c1080417d" />
+https://private-user-images.githubusercontent.com/145656057/441027366-6092ab3b-7c24-4c24-8c3b-23662be759ee.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQwMjM1NjMsIm5iZiI6MTc3NDAyMzI2MywicGF0aCI6Ii8xNDU2NTYwNTcvNDQxMDI3MzY2LTYwOTJhYjNiLTdjMjQtNGMyNC04YzNiLTIzNjYyYmU3NTllZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyMFQxNjE0MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYjU1MWU3NjA3YjdhMGYzMjJjZWZiMzExYmVmNDg0YzYyZWFkNjQxOWJjYjc0MzM0MzVkNzc3YzkyOTk2MTY2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Ej5983avpBnp1GJBrdjRJTf04cJz0mFydIyBfBqKo6c
 ```
 ## Result:
 Thus the program was executed and the output was verified successfully.
