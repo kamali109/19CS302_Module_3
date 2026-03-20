@@ -38,9 +38,7 @@ return 0;
 } 
 ```
 ## Output:
-```
-<img width="821" height="236" alt="image" src="https://github.com/user-attachments/assets/b6fd4f5a-f779-49f2-828c-b6cc44623ee7" />
+<img width="821" height="236" alt="image" src="https://github.com/user-attachments/assets/68fde24f-3b8c-4109-a18f-11b9619cbff5" />
 
-```
 ## Result:
 Thus the program was executed and the output was verified successfully.
